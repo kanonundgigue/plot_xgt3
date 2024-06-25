@@ -5,7 +5,7 @@ This project provides tools for plotting data from gtool3 files.
 ## Installation
 
 ```bash
-pip install git+https://github.com/yourusername/plot_xgt3.git
+pip install git+https://github.com/kanonundgigue/plot_xgt3.git
 ```
 
 The location of the directory containing Gtool3 axis files must be set as the environment variable `$GTAXDIR`. If you do not have them yet, you can download them from https://github.com/wm-ytakano/gtool3-axis.
