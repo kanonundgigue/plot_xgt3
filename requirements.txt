@@ -1,0 +1,3 @@
+matplotlib
+cartopy
+xgtool3 @ git+https://github.com/k1bb/xgtool3.git
